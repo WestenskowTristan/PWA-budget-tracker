@@ -21,7 +21,7 @@ To use this application navigate to website, you can click the arrow in the corn
 
 ## Usage
 
-In the app you can add funds with a transaction name and it saves the transaction and also shows you a graph of your budget!
+In the app you can add funds with a transaction name and it saves the transaction and also shows you a graph of your budget! Click <a href="https://blooming-crag-82953.herokuapp.com/">Here</a> to view page!
 
 ## License
 
